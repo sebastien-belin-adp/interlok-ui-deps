@@ -32,7 +32,7 @@
     <jackson.version>2.10.2</jackson.version>
     <jackson-databind.version>2.10.2</jackson-databind.version>
     <jetty.version>9.4.24.v20191120</jetty.version>
-    <jersey.version>2.29</jersey.version>
+    <jersey.version>2.30</jersey.version>
     <swagger.version>1.5.24</swagger.version>
     <slf4j.version>1.7.30</slf4j.version>
     <bouncycastle.version>1.61</bouncycastle.version>
